@@ -1,0 +1,6 @@
+vlm_debug_dataset.json
+- Vision Language Model을 LLaMa Factory를 활용해 학습하기 위한 디버깅용 데이터셋
+
+2511xx.json
+- 데이터 조합
+  MRI 6장, ...
