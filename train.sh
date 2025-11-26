@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2,3 llamafactory-cli train config/vlm_debug.yaml
