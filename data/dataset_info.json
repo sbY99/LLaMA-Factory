@@ -10,7 +10,8 @@
       "role_tag": "role",
       "content_tag": "content",
       "user_tag": "user",
-      "assistant_tag": "assistant"
+      "assistant_tag": "assistant",
+      "system_tag": "system"
     }
   },
   "dcm_postop": {
@@ -24,7 +25,8 @@
       "role_tag": "role",
       "content_tag": "content",
       "user_tag": "user",
-      "assistant_tag": "assistant"
+      "assistant_tag": "assistant",
+      "system_tag": "system"
     }
   },
   "dcm_binary": {
@@ -38,7 +40,8 @@
       "role_tag": "role",
       "content_tag": "content",
       "user_tag": "user",
-      "assistant_tag": "assistant"
+      "assistant_tag": "assistant",
+      "system_tag": "system"
     }
   },
   "train_debug": {

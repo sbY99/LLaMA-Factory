@@ -177,6 +177,3 @@ wandb/
 swanlog/
 generated_predictions.jsonl
 predictions_score.json
-
-config/*
-!config/vlm_debug.yaml
