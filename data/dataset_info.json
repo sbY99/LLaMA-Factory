@@ -1,6 +1,34 @@
 {
-  "dcm_dataset": {
-    "file_name": "251127.json",
+  "dcm_delta": {
+    "file_name": "dcm_delta_only.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "dcm_postop": {
+    "file_name": "dcm_postop_only.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "dcm_binary": {
+    "file_name": "dcm_binary_only.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages",
